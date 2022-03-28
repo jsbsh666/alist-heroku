@@ -5,7 +5,7 @@
   "env": {
     "ADATABASE": {
        "description": "数据库类型（sqlite3 / mysql）",
-       "value": "sqlite3"
+       "value": "mysql"
     },
     "BSQLUSER": {
        "description": "MySQL 用户名（数据库类型为远程 MySQL 时需要更改）",
